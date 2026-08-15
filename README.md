@@ -380,7 +380,6 @@ I'm always interested in connecting with people who enjoy:
 * Machine Learning 🧠
 * Software Engineering ⚙️
 * Game Development 🎮
-* Open Source 🌍
 
 <p align="center">
 
